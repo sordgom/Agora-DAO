@@ -1,4 +1,4 @@
-# This is my attempt to build a DAO based on buildspace tutorial
+# This is my attempt to build a DAO
 
 ### **Welcome 👋**
 To run this DAO, clone this repo and follow these commands:
@@ -23,3 +23,5 @@ https://thirdweb.com/
  - Run `node scripts/7-airdrop-token.js ` to airdrop treasury tokens to DAO members.
  - Run `node scripts/10-create-vote-proposals ` to create vote proposals(you need to edit this script for the proposals to work)
  - Run `node scripts/11-revoke-roles ` to Remove admin powers
+
+### Special Thanks to buildspace
